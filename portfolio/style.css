@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Lato:wght@300;700&display=swap');
+
+body{
+font-family: 'lato', sans-serif;
+margin: 10px 0;
+}
+
+nav ul{
+	list-style-type: none;
+	text-align: center;
+	padding: 8px;
+	margin-bottom: 0;
+}
+
+nav li{
+	display: inline;
+	background-color: #c6c6c6;
+	padding: 8px 10px;
+	border-radius: 50px;
+}
+
+nav li:hover{
+		background-color: white;
+
+	}
+
+
+nav a{
+	text-decoration: none;
+	color: black;
+} 
+
+nav a:link{
+	color: black;
+}
+
+nav a:visited{
+	color: black;
+}
+
+nav a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+nav a:active{
+	color: black;
+}
+
+a:link{
+	color: purple;
+}
+
+a:visited{
+	color: purple;
+}
+
+a:hover{
+	color: blue;
+}
+
+a:active{
+	color: black;
+}
+
+h1{
+	text-align: center;
+}
+
+nav{
+	background-color: #efefef;
+	border-top: 2px solid #c52c54;
+	border-bottom: 2px solid  #c52c54;
+	padding: 8px;
+} 
+
+body{
+	font-family: 'Source Sans pro', sans-serif;
+	margin: 0;
+}
+
+main{
+	max-width: 1000px;
+	margin: 20px auto;
+} 
+
+footer{
+	text-align: center;
+	border-top: 1px solid gray;
+	padding: 10px;
+} 
+
+@media only screen and (max-width: 1024px){
+	h1{
+		font-size: 2em;
+	}
+}
+
+@media only screen and(max-width: 768px){
+	h1{
+		font-size: 1.5em;
+	}
+}
+
+table{
+	border-collapse: collapse;
+}
+
+td, th{
+	border: 1px solid blue;
+	padding: 3px;
+}
+
+th{
+	background-color: red;
+	color: white;
+}
+
+form{
+	background-color: lightblue;
+	border: 1px solid darkblue;
+	height: auto;
+	max-width: 1024px;
+	margin: 0 auto;
+	box-shadow: 4px 4px 4px 4px;
+}
+
+
+header img{
+	margin: 0 auto;
+	display: block;
+}
+
+
+body{
+	font-family: 'Source Sans pro', sans-serif;
+	margin: 0;
+}
+
+main{
+	max-width: 1000px;
+	margin: 20px auto;
+} 
+
+footer{
+	text-align: center;
+	border-top: 1px solid gray;
+	padding: 10px;
+	background-color: lightblue;
+} 
+
+@media only screen and (max-width: 1024px){
+	h1{
+		font-size: 2em;
+	}
+}
+
+@media only screen and(max-width: 768px){
+	h1{
+		font-size: 1.5em;
+	}
+}
+
+i.fa{
+	font-size: 3em;
+	color: black;
+}
+
+i.fa:hover {
+	color: white;
+}
+
+
+main{
+	max-width: 1200px;
+}
+
+.img-fluid{
+	width: auto;
+}
+
+.home-hero{
+	background-images: url(images/header.jpg);
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 10px 10px 10px 30px;
+	text-shadow: 4px 3px 0 #7A7A7A;
+}
+
+body{
+	background-color: grey;
+	color: white;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
